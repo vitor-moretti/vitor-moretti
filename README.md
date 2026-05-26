@@ -1,3 +1,7 @@
+<img src="https://media.tenor.com/JeMf2D90fL8AAAAM/jujutsu-kaisen-jjk.gif" height= "400px" width= "1000px">
+
+---
+
 <h1> Vitor Moretti, Cursando desenvolvimento de sistemas na ETEC VAV. </h1>
 
 <h2> Link para os portifólios: </h2>
