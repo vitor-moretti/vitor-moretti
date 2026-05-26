@@ -2,7 +2,8 @@
 
 ---
 
-<h1> Vitor Moretti, Cursando desenvolvimento de sistemas na ETEC VAV. </h1>
+<h1> Vitor Moretti</h1>
+<p> Cursando desenvolvimento de sistemas na ETEC VAV. </p>
 
 <h2> Link para os portifólios: </h2>
 
@@ -16,7 +17,7 @@ Link: https://github.com/etecvav26-1C2-10/Portifolio-SE
 - Portifólio de Programação Web: <br>
 Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 
-
+<div align="center">
 <h2> Linguagens de programação estudadas: </h2>
 
 <p>
@@ -27,3 +28,4 @@ Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://img.shields.io/badge/Tinkercad-00C7B7?style=for-the-badge&logo=autodesk&logoColor=white">
 </p>
+</div>
