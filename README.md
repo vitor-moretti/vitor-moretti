@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/xxTiQVYbcAAAAAAC/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc.gif" width="100%">
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:36BCF7,100:8257E5&section=header"/>
 <div>
